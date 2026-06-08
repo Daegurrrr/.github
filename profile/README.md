@@ -16,7 +16,10 @@ AI 기반 스크린샷 분석 및 행동 추천 서비스
 ## 협업 툴
 (피그마나 노션 링크 첨부)
 Figma: 
+
 Notion: https://www.notion.so/2026-31eab5ad9c6680cebab4d4e1f12bdccf?source=copy_link
+
+[Notion 링크](https://www.notion.so/2026-31eab5ad9c6680cebab4d4e1f12bdccf?source=copy_link)
 
 ## Architecture
 Frontend: SwiftUI
