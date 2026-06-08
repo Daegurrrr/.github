@@ -57,12 +57,11 @@ CaptureMate는 사용자가 저장만 하고 잊어버리는 스크린샷을 분
 | 허채윤 | 팀원 | Frontend 개발, 분류 모델 학습 |
 | 황지은 | 팀원 | Backend API 개발, DB 설계 |
 
+## 레포지토리
+기타 상세는 [프론트엔드 README.md](), [백엔드 README.md](), [AI README.md])를 참고하세요.
+- 📱 [Frontend Repository](https://github.com/Daegurrrr/CaptureMate_FE)
+- ⚙️ [Backend Repository](https://github.com/Daegurrrr/CaptureMate_BE)
+- 🤖 [AI Repository](https://github.com/Daegurrrr/CaptureMate_AI)
 
-
-
-
-
-
-각 레포 안에서 시작 가이드 넣기
 
 ...
