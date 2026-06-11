@@ -2,7 +2,7 @@
 AI 기반 스크린샷 분석 및 행동 추천 서비스
 
 ## 프로젝트 로고
-
+<img width="256" height="256" alt="image" src="https://github.com/user-attachments/assets/78761e59-2e4c-4d8c-b8d8-c0922033b0d6" />
 
 ## 프로젝트 소개
 CaptureMate는 사용자가 저장만 하고 잊어버리는 스크린샷을 분석하여
